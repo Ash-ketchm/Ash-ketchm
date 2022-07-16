@@ -1,4 +1,4 @@
 
-![METRICS](Ash-ketchm/github-metrics.svg)
+![METRICS](Ash-ketchm/Ash-ketchm/github-metrics.svg)
 
 
