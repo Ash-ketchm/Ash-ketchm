@@ -10,8 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-     - name: Metrics embed
-        uses: lowlighter/metrics@v3.26
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOCKEN }}
@@ -33,6 +32,6 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 4
-          plugin_anilist_user: ash
+          plugin_anilist_user: ashx1
           plugin_rss: yes
           plugin_rss_limit: 4
