@@ -34,4 +34,5 @@ jobs:
           plugin_anilist_limit: 4
           plugin_anilist_user: ashx1
           plugin_rss: yes
+          plugin_rss_source: https://ash-ketchm.github.io/
           plugin_rss_limit: 4
